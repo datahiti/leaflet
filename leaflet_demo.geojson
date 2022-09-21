@@ -1,0 +1,36 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type": "Feature",
+			"properties": {
+				"labelContent": "Point 1",
+				"popupContent": "Point One <BR> Property 1 : Value A<BR>Property 2 : Value Z"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 165.56, -21.44]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"labelContent": "Point 2",
+				"popupContent": "Point Two <BR> Property 1 : Value C<BR>Property 2 : Value HHSD"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [165.55, -21.45]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"labelContent": "Point 3",
+				"popupContent": "Point Three <BR> Property 1 : Value B<BR>Property 2 : Value BVNGB"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [165.10, -21.02]
+			}
+		}
+	]
+}
